@@ -1,0 +1,13 @@
+F:\Visual Studio 2021\TAP\OpenGLTutorial7\OpenGLTutorial7\bin\Release\OpenGLTutorial7.exe.config
+F:\Visual Studio 2021\TAP\OpenGLTutorial7\OpenGLTutorial7\bin\Release\OpenGLTutorial7.exe
+F:\Visual Studio 2021\TAP\OpenGLTutorial7\OpenGLTutorial7\bin\Release\OpenGLTutorial7.pdb
+F:\Visual Studio 2021\TAP\OpenGLTutorial7\OpenGLTutorial7\bin\Release\OpenGL.dll
+F:\Visual Studio 2021\TAP\OpenGLTutorial7\OpenGLTutorial7\bin\Release\Tao.FreeGlut.dll
+F:\Visual Studio 2021\TAP\OpenGLTutorial7\OpenGLTutorial7\bin\Release\OpenGL.dll.config
+F:\Visual Studio 2021\TAP\OpenGLTutorial7\OpenGLTutorial7\bin\Release\Tao.FreeGlut.dll.config
+F:\Visual Studio 2021\TAP\OpenGLTutorial7\OpenGLTutorial7\obj\x86\Release\OpenGLTutorial7.csproj.AssemblyReference.cache
+F:\Visual Studio 2021\TAP\OpenGLTutorial7\OpenGLTutorial7\obj\x86\Release\OpenGLTutorial7.csproj.SuggestedBindingRedirects.cache
+F:\Visual Studio 2021\TAP\OpenGLTutorial7\OpenGLTutorial7\obj\x86\Release\OpenGLTutorial7.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2021\TAP\OpenGLTutorial7\OpenGLTutorial7\obj\x86\Release\OpenGLTutorial7.csproj.CopyComplete
+F:\Visual Studio 2021\TAP\OpenGLTutorial7\OpenGLTutorial7\obj\x86\Release\OpenGLTutorial7.exe
+F:\Visual Studio 2021\TAP\OpenGLTutorial7\OpenGLTutorial7\obj\x86\Release\OpenGLTutorial7.pdb
